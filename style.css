@@ -73,12 +73,12 @@ p {
 }
 
 .bg1{
-    background: url('/Users/pinsent/Desktop/github網站應用/pinsent901.github.io/img/161985872862790_P7892613.jpg');
+    background: url('./img/161985872862790_P7892613.jpg');
     color: #333;
 }
 
 .bg2{
-    background: url('/Users/pinsent/Desktop/github網站應用/pinsent901.github.io/img/images.jpg');
+    background: url('.img/images.jpg');
     color: #321
 }
 .shadowbox {
